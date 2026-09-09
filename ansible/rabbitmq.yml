@@ -1,5 +1,0 @@
----
-- hosts: rmq-cluster
-  become: yes
-  roles:
-    - rabbitmq-cluster

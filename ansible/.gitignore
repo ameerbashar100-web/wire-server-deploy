@@ -1,6 +1,0 @@
-hosts.ini
-artifacts
-secrets
-*.retry
-output
-roles-override
